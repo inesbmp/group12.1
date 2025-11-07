@@ -8,15 +8,18 @@ To use the application:
 2 Download to this same directory the model_xgb.ipynb and Final_Code_6.py [and also the sensor_forecast_model folder]
 
 3 [REDACTED] Run All cells in the ipynb [this part is now unnecessary if you downloaded the sensor_forecast_model folder}
-      This will take some 8 minutes.
-      A subdirectory with the model shall appear
+
+      ++          This will take some 8 minutes.
+      
+      ++          A subdirectory with the model shall appear
       
 4 Open anaconda prompt
 
 5 type in "cd PATH-TO-THAT-DIRECTORY" 
 
 6 type in "streamlit run Final_Code_6.py
-      your browser will open with the application.
+
+      ++          your browser will open with the application.
       
 
 The Sarimax ipynb was included because it is a very good model, and achieved amazing MAE (as per illustrated by the graphs, if you run the whole ipynb).
